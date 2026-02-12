@@ -77,6 +77,8 @@ The dashboard supports:
 ![Dashboard Overview](screenshot2)
 ![Dashboard Overview](screenshot3)
 ![Dashboard Overview](screenshot4)
+![Dashboard Overview](screenshot5)
+
 
 ---
 
