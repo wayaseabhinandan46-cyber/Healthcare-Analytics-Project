@@ -74,9 +74,9 @@ The dashboard supports:
 ## Dashboard Preview
 
 ![Dashboard Overview](screenshot1)
-[Dashboard Overview](screenshot2)
-[Dashboard Overview](screenshot3)
-[Dashboard Overview](screenshot4)
+![Dashboard Overview](screenshot2)
+![Dashboard Overview](screenshot3)
+![Dashboard Overview](screenshot4)
 
 ---
 
